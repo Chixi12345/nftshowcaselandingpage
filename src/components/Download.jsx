@@ -15,7 +15,13 @@ const Download = () => {
           </p>
         </div>
 
-        <button className={styles.btnPrimary}>Source Code</button>
+        <a
+          href="https://github.com/Chixi12345/nftmarketplace_app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button className={styles.btnPrimary}>Source Code</button>{" "}
+        </a>
 
         <div className={styles.flexCenter}>
           {" "}
