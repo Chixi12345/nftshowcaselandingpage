@@ -37,10 +37,7 @@ const App = () => {
       <div className="px-4 py-2 justify-center item-center bg-primary flex-col text-center banner04">
         <p className={`${styles.pText} ${styles.whiteText}`}>
           Made with love by
-          <span
-            className="bold"
-            style={{ fontWeight: "bold", marginLeft: "5px" }}
-          >
+          <span style={{ fontWeight: "bold", marginLeft: "5px" }}>
             Emco Chijioke
           </span>
         </p>
